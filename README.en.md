@@ -3,8 +3,8 @@
 This is an offline Chinese documentation version of [ECharts Official Website](https://github.com/apache/echarts-website). This version has been converted and created based on the official website. Apart from some charts that require data from Baidu API and cannot be displayed, other charts should be accessible as normal.
 
 ### File Download Links
-- [Baidu Pan Download Link](https://pan.baidu.com/s/1I_bAgSa3ESYP-qwzPSv8rQ)
-- Extraction code: vuuc
+- [Baidu Pan Download Link](https://pan.baidu.com/s/1-7uUDBkUPlbS5ix16ejUcA)
+- Extraction code: 3n9g
 
 ### Deployment Method
 1. Unzip the downloaded `echarts-website` folder and place it in Tomcat or another server.
