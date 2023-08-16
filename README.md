@@ -1,37 +1,23 @@
-# earchsDoc
+## ECharts 离线中文文档
 
-#### 介绍
-earchs离线中文文档，基于官方https://github.com/apache/echarts-website，转换制作离线版本
+这是基于官方 [ECharts 官网](https://github.com/apache/echarts-website) 制作的离线中文文档版本。本版本在官方的基础上进行了转换，制作成离线版本。除了一些必须基于百度 API 获得数据的相关图无法显示外，其他图表应该都能正常访问。
 
-#### 软件架构
-软件架构说明
+### 文件下载地址
+- [百度网盘下载链接](https://pan.baidu.com/s/1I_bAgSa3ESYP-qwzPSv8rQ)
+- 提取码: vuuc
 
+### 部署方式
+1. 将下载的 `echarts-website` 文件解压并放置在 Tomcat 或其他服务器中。
+2. 启动服务器即可。
+3. 注意访问路径，确保访问地址为 `http://xxxxxxxx:xxx/echarts-website`，其中 `echarts-website` 是写死的路径。
 
-#### 安装教程
+### 关于自行转换
+如果你想自行进行转换，可以按照以下步骤操作：
+1. 将 [ECharts 官网代码](https://github.com/apache/echarts-website) 克隆到本地。
+2. 使用网盘中提供的 `ConvertEarchsDoc` 工具解压并运行 `main` 函数（注意代码需要进行理解和修改）。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+---
 
-#### 使用说明
+请注意，以上是关于 ECharts 离线中文文档的说明和信息。如果你需要使用这个离线文档，可以根据上述步骤进行下载和部署。如果有任何疑问或问题，可提issues。  
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+最后，以上机里机气的说明由gpt润色 ╰(°▽°)╯。
